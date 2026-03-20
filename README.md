@@ -60,7 +60,7 @@ print("Area of Circle:", circle.calculate_area())
 ![WhatsApp Image 2025-10-20 at 19 15 32_e3f8677e](https://github.com/user-attachments/assets/75bbaa55-c4bc-45c0-b43e-c85340fc058f)
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # 🐍 Python OOP: Encapsulation with Private Members
 
@@ -109,7 +109,7 @@ rect.display()
 <img width="740" height="186" alt="Screenshot 2025-10-20 191840" src="https://github.com/user-attachments/assets/e69cbe2a-f6a2-4992-b662-3494cbc8b6fc" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
 
@@ -144,7 +144,7 @@ for i in (obj_goldfish,obj_hammerhead):
 <img width="746" height="180" alt="Screenshot 2025-10-20 193207" src="https://github.com/user-attachments/assets/61972849-a7b1-4aca-90ec-80c88c22ca20" />
 
 ## RESULT
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # 🐍 Python OOP: Operator Overloading (Less Than `<`)
 
@@ -190,7 +190,7 @@ print(ob1 < ob2)
 <img width="944" height="170" alt="Screenshot 2025-10-20 192450" src="https://github.com/user-attachments/assets/123a2721-13f7-49ee-8962-20fbd8fa3d8a" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # # 🐍 Python OOP: Polymorphism with Classes
 
@@ -243,4 +243,4 @@ for i in (obj_beans,obj_mango):
 <img width="945" height="231" alt="Screenshot 2025-10-20 192814" src="https://github.com/user-attachments/assets/675f66aa-e8bb-4217-b726-787a7433523b" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
